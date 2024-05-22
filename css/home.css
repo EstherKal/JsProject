@@ -1,0 +1,42 @@
+#btn1{
+    background-color: rgba(49, 206, 193, 0.835);
+    height: 80px;
+    width: 200px;
+    border-width: thin;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 3%;
+    margin-left: 32%;
+    margin-top: 2%;
+    border-width: thin;
+}
+#btn2{
+    background-color: rgba(49, 206, 193, 0.835);
+    height: 80px;
+    width: 200px;
+    border-width: thin;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-width: thin;
+}
+#btn3{
+    background-color: rgba(49, 206, 193, 0.835);
+    height: 80px;
+    width: 200px;
+    border-width: thin;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-width: thin;
+}
+
+body{
+    background-image: url(../pic/_LOGO.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 50% 100%;
+    align-items: center;
+    background-position: center;
+     
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
